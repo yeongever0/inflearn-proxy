@@ -1,10 +1,10 @@
-package hello.proxy.decorator;
+package hello.proxy.pureProxy.decorator;
 
-import hello.proxy.decorator.code.Component;
-import hello.proxy.decorator.code.DecoratorPatternClient;
-import hello.proxy.decorator.code.MessageDecorator;
-import hello.proxy.decorator.code.RealComponent;
-import hello.proxy.decorator.code.TimeDecorator;
+import hello.proxy.pureProxy.decorator.code.Component;
+import hello.proxy.pureProxy.decorator.code.DecoratorPatternClient;
+import hello.proxy.pureProxy.decorator.code.MessageDecorator;
+import hello.proxy.pureProxy.decorator.code.RealComponent;
+import hello.proxy.pureProxy.decorator.code.TimeDecorator;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
